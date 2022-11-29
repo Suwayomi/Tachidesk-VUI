@@ -1,1 +1,0 @@
-import{P as t,a as e}from"./index.b35b6c87.js";t.isEmpty()&&(t.set("lbByid",!0),t.set("baseUrl",location.origin),t.set("useCache",!0),t.set("MitemW",300),t.set("dark",!0),t.set("ExtLangFilt",["en"]),e.set(!0));

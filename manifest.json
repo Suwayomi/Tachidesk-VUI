@@ -1,1 +1,42 @@
-{"id":"tachidesk-vui","name":"Tachidesk-VUI","short_name":"tachidesk-vui","description":"A tachidesk UI made with Vue + Quasar","display":"standalone","start_url":"/Tachidesk-VUI/","background_color":"#121212","icons":[{"src":"icons/icon-128x128.png","sizes":"128x128","type":"image/png"},{"src":"icons/icon-192x192.png","sizes":"192x192","type":"image/png"},{"src":"icons/icon-256x256.png","sizes":"256x256","type":"image/png"},{"src":"icons/icon-384x384.png","sizes":"384x384","type":"image/png"},{"src":"icons/icon-512x512.png","sizes":"512x512","type":"image/png"},{"src":"icons/maskable_icon_x512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}
+{
+  "id": "tachidesk-vui",
+  "name": "Tachidesk-VUI",
+  "short_name": "tachidesk-vui",
+  "description": "A tachidesk UI made with Vue + Quasar",
+  "display": "standalone",
+  "start_url": "/Tachidesk-VUI/",
+  "background_color": "#121212",
+  "icons": [
+    {
+      "src": "icons/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/maskable_icon_x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
