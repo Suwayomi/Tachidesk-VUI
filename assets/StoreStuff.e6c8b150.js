@@ -1,0 +1,1 @@
+import{b as n,P as r}from"./index.14176138.js";function s(e,t,o=null){t==o?r.remove(e):r.set(e,t)}function l(e,t=null){const o=r.getItem(e);return o===null?t:o}var f=n(({app:e})=>{e.config.globalProperties.$storeSet=s,e.config.globalProperties.$storeGet=l,e.provide("storeSet",s),e.provide("storeGet",l)});export{f as default,l as storeGet,s as storeSet};
